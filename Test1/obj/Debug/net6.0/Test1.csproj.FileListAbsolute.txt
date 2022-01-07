@@ -1,0 +1,15 @@
+/Users/aleksejdemcenko/Desktop/Новая папка/Test1/bin/Debug/net6.0/Test1
+/Users/aleksejdemcenko/Desktop/Новая папка/Test1/bin/Debug/net6.0/Test1.deps.json
+/Users/aleksejdemcenko/Desktop/Новая папка/Test1/bin/Debug/net6.0/Test1.runtimeconfig.json
+/Users/aleksejdemcenko/Desktop/Новая папка/Test1/bin/Debug/net6.0/Test1.dll
+/Users/aleksejdemcenko/Desktop/Новая папка/Test1/bin/Debug/net6.0/ref/Test1.dll
+/Users/aleksejdemcenko/Desktop/Новая папка/Test1/bin/Debug/net6.0/Test1.pdb
+/Users/aleksejdemcenko/Desktop/Новая папка/Test1/obj/Debug/net6.0/Test1.csproj.AssemblyReference.cache
+/Users/aleksejdemcenko/Desktop/Новая папка/Test1/obj/Debug/net6.0/Test1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejdemcenko/Desktop/Новая папка/Test1/obj/Debug/net6.0/Test1.AssemblyInfoInputs.cache
+/Users/aleksejdemcenko/Desktop/Новая папка/Test1/obj/Debug/net6.0/Test1.AssemblyInfo.cs
+/Users/aleksejdemcenko/Desktop/Новая папка/Test1/obj/Debug/net6.0/Test1.csproj.CoreCompileInputs.cache
+/Users/aleksejdemcenko/Desktop/Новая папка/Test1/obj/Debug/net6.0/Test1.dll
+/Users/aleksejdemcenko/Desktop/Новая папка/Test1/obj/Debug/net6.0/ref/Test1.dll
+/Users/aleksejdemcenko/Desktop/Новая папка/Test1/obj/Debug/net6.0/Test1.pdb
+/Users/aleksejdemcenko/Desktop/Новая папка/Test1/obj/Debug/net6.0/Test1.genruntimeconfig.cache
